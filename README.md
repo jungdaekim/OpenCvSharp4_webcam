@@ -11,6 +11,7 @@ VS2022
 NuGet package: 
 
 OpenCVSharp4.Windows 4.10.0.20
+
 OpenCVSharp4.Extensions  4.10.0.20
 
 ​
